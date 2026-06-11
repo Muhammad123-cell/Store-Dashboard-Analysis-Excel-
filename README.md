@@ -168,14 +168,6 @@ The dataset contains e-commerce sales records including:
 
 ---
 
-## Dashboard Screenshot
-
-### Main Dashboard
-
-![Vrinda Store Dashboard](screenshots/dashboard.png)
-
----
-
 ## Skills Demonstrated
 
 * Data Cleaning
